@@ -98,8 +98,10 @@ html, body {
     transform: rotate(177deg);
 }
 #meow{
-    width:400px;
+    width:600px;
     translate: rotate(0deg);
+    margin-left: auto;
+    margin-right: auto;
 }
 #vidbg, #erroroverlay{
     width:100vw;
